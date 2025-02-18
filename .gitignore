@@ -4,6 +4,7 @@ out/
 !**/src/test/**/out/
 
 ### Eclipse ###
+JavaProject9.iml
 .apt_generated
 .classpath
 .factorypath
